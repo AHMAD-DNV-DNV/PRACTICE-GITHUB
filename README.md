@@ -1,4 +1,5 @@
 # PRACTICE-GITHUB
-THIS IS  PRACTIEE FOR GITHUB.
+
+THIS IS PRACTIEE FOR GITHUB.
 <br>
-Author:Ahmad Sohail
+Author:Ahmad
